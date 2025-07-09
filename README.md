@@ -1,6 +1,6 @@
 # Log Analyser - Real-Time Brute Force Detection (Bash)
 
-Beginner friendly blue team tool written in Bash that monitors SSH logs. Checks for brute-force login attemtps and blacklisted IPs
+Beginner friendly blue team tool written in Bash that monitors SSH logs. Checks for brute-force login attempts and blacklisted IPs.
 Simulates behaviour of a lightweight intrusion detection system (IDS) using synthetic log data and simple detection rules.
 
 ## Prerequisites
