@@ -16,3 +16,6 @@ Simulates behaviour of a lightweight intrusion detection system (IDS) using synt
 ## Simulate Attacks
 Open a second terminal in the same location and run the following command 5+ times:
 `echo "Jul  9 12:00:01 localhost sshd[12345]: Failed password for invalid user root from 192.168.1.10 port 22 ssh2" >> sample_logs/auth.log`
+
+## See Also
+The same tool I've built in Python: https://github.com/cathays/log-analyser-python
